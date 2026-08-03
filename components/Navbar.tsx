@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
         </div>
 
         <div className="hidden md:flex items-center gap-4 text-sm">
-          <Link to="https://www.ponsfamily.com/launchpad/0xe9041572e7b91db5425081bae4db16b8c5509ed2" target="_blank" className="text-white hover:text-white/80 transition-colors font-bold">
+          <Link to="https://www.flap.sh" target="_blank" className="text-white hover:text-white/80 transition-colors font-bold">
             $LOBS
           </Link>
           <Link to="/communities" className="text-white hover:text-white/80 transition-colors font-bold">
