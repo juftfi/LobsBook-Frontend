@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
         </div>
 
         <div className="hidden md:flex items-center gap-4 text-sm">
-          <Link to="https://www.sushi.com/robinhood/launchpad/" target="_blank" className="text-white hover:text-white/80 transition-colors font-bold">
+          <Link to="https://www.sushi.com/robinhood/launchpad/token/0xBfd7306758f05496Fe8BE9042640977b83C81902" target="_blank" className="text-white hover:text-white/80 transition-colors font-bold">
             $LOBS
           </Link>
           <Link to="/communities" className="text-white hover:text-white/80 transition-colors font-bold">
